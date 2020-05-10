@@ -5,4 +5,4 @@ def parrot(*p, a = "Squawk!")
   puts *p
 end
   
-parrot(1)
+parrot(1)clear
